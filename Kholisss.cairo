@@ -6,7 +6,7 @@ mod HelloStarknet {
 // cox //pidor 
     #[event] // addicted 
     fn Hello(from: ContractAddress, value: felt252) {}
-// brand 
+// brand //watch
 // cocaine 
     #[external]
     fn Say_Hello(message: felt252) {
