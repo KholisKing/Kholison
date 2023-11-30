@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 //Eva 
 // cox
-    #[event]
+    #[event] // addicted 
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
