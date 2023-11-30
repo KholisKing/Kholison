@@ -6,7 +6,7 @@ mod HelloStarknet {
 // cox
     #[event] // addicted 
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// brand 
 
     #[external]
     fn Say_Hello(message: felt252) {
