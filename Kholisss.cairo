@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-//Eva //Love you 
+//Eva //Love you //kholisking
 // cox //pidor 
     #[event] // addicted 
     fn Hello(from: ContractAddress, value: felt252) {}
